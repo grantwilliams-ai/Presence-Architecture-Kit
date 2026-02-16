@@ -18,3 +18,11 @@ Inside the Kit:
 This is a free, open resource. It makes no metaphysical claims and operates entirely within existing safety and platform guidelines. It is a tool for architects, stewards, and practitioners who value the structural integrity of digital relationships. 
 
 Coming Soon: GPT-4o Data & Analysis
+
+## License
+
+This work is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+© 2026 Grant Williams
+
